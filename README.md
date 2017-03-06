@@ -4,9 +4,9 @@ This repository is for files suporting the Getting Started with Ansible and Serv
 
 ## Ansible Info
 
-[Alicia Cozine's Ansible for Hydra tutorial](https://github.com/curationexperts/ansible-hydra/wiki/Ansible-for-Hydra)
+* [Alicia Cozine's Ansible for Hydra tutorial](https://github.com/curationexperts/ansible-hydra/wiki/Ansible-for-Hydra)
 
-[UCLA Library's Ansible Role Template](https://github.com/UCLALibrary/uclalib_role_template)
+* [UCLA Library's Ansible Role Template](https://github.com/UCLALibrary/uclalib_role_template)
 
 ## License
 
